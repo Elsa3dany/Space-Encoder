@@ -46,7 +46,7 @@ Welcome to **Space Encoder**, the ultimate platform for booking interplanetary s
 ### 🌑 **Dark Mode Theme**  
 - A futuristic dark mode with glowing accents for an immersive space-age feel.  
 
-### 🪐 **About Section**  
+### ❔ **About Section**  
 - Learn about Space Encoder and its mission to make space tourism accessible for all adventurers.  
 
 
